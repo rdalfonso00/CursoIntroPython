@@ -72,9 +72,11 @@ Ahora eliminaremos el directorio config.txt y volviendo a ejecutar el programa _
 ![](img/remDir.png)
 
 Marte:
+
 ![](img/mars.jpg.png)
 
 Uso de errno
+
 ![](img/errno.png)
 
 ---
