@@ -44,6 +44,7 @@ No deberías obtener respuesta. A continuación, veamos cómo cambia la salida d
 Hasta ahora, has creado un entorno virtual y le has agregado un paquete. Sin embargo, es posible que estés trabajando en varios proyectos de Python y necesites cambiar entre ellos. Para hacer eso, debes salir (desactivar) tu entorno virtual.
 
 Ejecuta el comando ``deactivate``:
+
 ![](img/salir.png)
 
 Observa cómo cambia el mensaje de tu terminal ``(env)`` a cómo se veía antes.
